@@ -18,7 +18,7 @@
     margin-left: 2em;
     margin-right: 2em;
     position: relative;
-    top: -50em;
+    top: -58em;
 }
 .quoteAttrib {
     position: fixed;
@@ -33,9 +33,9 @@
     color: #E5F0F0;
     margin: 2em 2em;
     position: relative;
-    top: -35em;
+    top: -45em;
     overflow: auto;
-    height: 40vh;
+    height: 45vh;
 }
 
 #content {
