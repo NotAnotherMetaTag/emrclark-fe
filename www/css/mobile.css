@@ -1,0 +1,56 @@
+@media screen and (max-width: 926px) {
+	nav a {
+		width: 100%;
+	}
+	
+	h1 {
+    font-size: 1.65em;
+  }
+
+  .quote {
+    height: 1vh;
+    font-size: .75em;
+    text-align: left;
+  }
+
+  .quote p {
+    font-size: 1em;
+  }
+
+  .topQuote {
+    top: -53em;
+    margin-left: 16em;
+    margin-right: .5em;
+  }
+
+  .quoteAttrib {
+      font-size: .9em;
+  }
+
+  .contentPane {
+    height: 76vh;
+  }
+  
+  .header {
+    margin-left: 1em;
+    margin-bottom: -.75em;
+    font-size: 1.25em;
+    height: 10vh;
+  }
+
+  .text {
+    color: #E5F0F0;
+    margin: 2em 2em;
+    position: relative;
+    top: -34em;
+    overflow: auto;
+    height: 74vh;
+}
+}
+    @media (min-width: 926px) {
+    .body {
+        width: 94%;
+        max-width: 1300px;
+        margin: 0 auto;
+    }
+}

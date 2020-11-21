@@ -18,6 +18,13 @@ p {
   font-size: 3em;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
 body {
     position: absolute;
     margin: 0;
