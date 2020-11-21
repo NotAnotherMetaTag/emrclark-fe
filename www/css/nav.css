@@ -72,3 +72,5 @@
   .proj-dropdown:hover .proj-dropdown-content {
     display: block;
   }
+  .dropdowninput, .dropdown {display:none;}
+.dropdowninput:checked + .dropdownbox .dropdown {display:block;}
