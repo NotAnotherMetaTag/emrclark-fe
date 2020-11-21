@@ -41,7 +41,7 @@
   .nav a:hover, .proj-dropdown:hover .proj-dropdown-bttn {
     background-color: #305252;
   }
-  
+
   /* Dropdown content (hidden by default) */
   .proj-dropdown-content {
     display: none;
