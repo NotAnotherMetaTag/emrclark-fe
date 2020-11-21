@@ -71,6 +71,5 @@
   /* Show the dropdown menu on hover */
   .proj-dropdown:hover .proj-dropdown-content {
     display: block;
+    z-index: 1;
   }
-  .dropdowninput, .dropdown {display:none;}
-.dropdowninput:checked + .dropdownbox .dropdown {display:block;}
