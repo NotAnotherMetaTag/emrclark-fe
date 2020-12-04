@@ -38,7 +38,7 @@
     margin: 0; /* Important for vertical align on mobile phones */
   }
 
-  .nav a:hover, .proj-dropdown:hover .proj-dropdown-bttn {
+  .nav a:active, .proj-dropdown:active .proj-dropdown-bttn {
     background-color: #305252;
   }
 
@@ -63,13 +63,13 @@
     width: 100%
   }
   
-  /* Add a grey background color to dropdown links on hover */
-  .proj-dropdown-content a:hover {
+  /* Add a grey background color to dropdown links on active */
+  .proj-dropdown-content a:active {
     background-color: #77878B;
   }
   
-  /* Show the dropdown menu on hover */
-  .proj-dropdown:hover .proj-dropdown-content {
+  /* Show the dropdown menu on active */
+  .proj-dropdown:active .proj-dropdown-content {
     display: block;
     z-index: 1;
   }
