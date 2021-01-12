@@ -7,12 +7,6 @@
     font-size: 1.65em;
   }
 
-  .quote {
-    box-sizing: border-box;
-    visibility: hidden;
-    height: 0vh;
-  }
-
   .contentPane {
     box-sizing: border-box;
     padding-top: 1em;
@@ -33,8 +27,8 @@
 
   .text {
     box-sizing: border-box;
-    color: #E5F0F0;
-    margin: 2em 2em;
+    color: hsl(180, 27%, 92%);
+    margin: 2em 1em 2em;
     position: absolute;
     top: 7em;
     overflow: auto;
